@@ -5,6 +5,9 @@
   "author": "Your Name",
   "description": "A cybersecurity-themed terminal interface project",
   "type": "module",
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
